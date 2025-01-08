@@ -6,4 +6,4 @@ Feel free to take and have fun with it - if used for commerical, please ask Mike
 
 Thanks!
 
-Try it out on CodePen or Here: [https://gavinmonroe.dev/shots/PriceCard/](https://gavinmonroe.dev/shots/Disintegrate/)
+Try it out on CodePen or Here: [gavinmonroe.dev/shots/Disintegrate/](https://gavinmonroe.dev/shots/Disintegrate/)
